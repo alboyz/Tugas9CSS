@@ -1,0 +1,13 @@
+img{
+  z-index: 1;
+  position: relative;
+}
+.content{
+  width: 800px;
+  background-color: white;
+  float: right;
+  position: relative;
+  z-index: 2;
+  top: -700px;
+  text-align: right;
+}
